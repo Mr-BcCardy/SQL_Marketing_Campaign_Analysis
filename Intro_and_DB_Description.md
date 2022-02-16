@@ -6,8 +6,7 @@ SQL project. Marketing Campaign Analysis
 
 For this SQL project I used a completely depersonalized partial
 replication of a database. The document is written in RMarkdown with
-MySQL syntax. SQL script to replicate the DB will be provided in a
-separate .sql file.
+MySQL syntax.
 
 #### **DataBase Description**
 
