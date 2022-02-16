@@ -2,13 +2,13 @@ SQL project. Marketing Campaign Analysis
 ================
 2022-02-16
 
-#### **Summary**
+### **Summary**
 
 For this SQL project I used a completely depersonalized partial
 replication of a database. The document is written in RMarkdown with
 MySQL syntax.
 
-#### **DataBase Description**
+### **DataBase Description**
 
 Before jumping to the data exploration part let’s have a look at what we
 are dealing with:
