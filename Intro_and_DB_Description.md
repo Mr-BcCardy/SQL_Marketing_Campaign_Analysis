@@ -1,6 +1,5 @@
 SQL project. Marketing Campaign Analysis
 ================
-Arkadiy Rudenko
 2022-02-16
 
 #### **Summary**
