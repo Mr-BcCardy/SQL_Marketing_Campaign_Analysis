@@ -1,6 +1,5 @@
 SQL project. Marketing Campaign Analysis
 ================
-2022-02-16
 
 ### **Summary**
 
