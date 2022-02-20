@@ -1,6 +1,8 @@
 SQL project. Marketing Campaign Analysis
 ================
 
+## **Introduction and DB description**
+
 ### **Summary**
 
 For this SQL project I used a completely depersonalized partial
